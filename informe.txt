@@ -1,0 +1,1 @@
+vimos los comandos basdicos de git
