@@ -4,3 +4,5 @@ aprendimos las ramas y practicamos de nuevo todos
 
 
 sistema conbtrol versiones
+
+ramas ignorar archivo
